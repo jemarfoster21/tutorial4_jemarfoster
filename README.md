@@ -6,7 +6,7 @@ This repository was created for ITE Tutorial 4 to demonstrate how to use Git and
 ## Steps Followed
 1. Installed Git and created a GitHub account.
 2. Initialized a local repository using `git init`.
-3. Created a file named `name.txt` containing my name.
+3. Created a file named `collabrator.txt` containing collabrators name.
 4. Added my collaborator **J-A-Austin**.
 5. Created a new branch `tutorial-branch`.
 6. Committed and pushed changes to GitHub.
